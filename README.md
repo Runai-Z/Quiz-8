@@ -18,8 +18,8 @@ For example, on a computer, when the mouse hovers over one of the circles, the a
 ### Part 2: Coding Technique Exploration
 
 ![Rotating Polygons on the Major Scale Code](assets/Pic%203.png)
-This is *Rotating Polygons on the Major Scale* created by **Patt Vira** using p5.js.
 [Rotating Polygons on the Major Scale Code](https://editor.p5js.org/pattvira/sketches/Pa1_cdABS)
+This is *Rotating Polygons on the Major Scale* created by **Patt Vira** using p5.js.
 
 Vira applied interactive collision detection technology, combining rotating polygons with sound mapping, which can help implement the imaging techniques selected in Part 1.
 
